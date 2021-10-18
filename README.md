@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jak-e
-- 👀 I’m interested in font end software development
+- 👀 I’m interested in front end software development
 - 🌱 I’m currently learning HTML, CSS & JavaScript 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
